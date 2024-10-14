@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Customer_Dim_pop", "Customer_Dim_pop\Customer_Dim_pop.dtproj", "{3FFB170D-4537-447B-9E59-5D8AF3EB08F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FFB170D-4537-447B-9E59-5D8AF3EB08F3}.Development|Default.ActiveCfg = Development
+		{3FFB170D-4537-447B-9E59-5D8AF3EB08F3}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DC8C2DB-F59C-4CA6-9206-366BA8D627A5}
+	EndGlobalSection
+EndGlobal
